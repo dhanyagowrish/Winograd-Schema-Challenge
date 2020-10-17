@@ -1,5 +1,5 @@
 # Winograd Schema Challenge  
-The model aims to identify the correct antecedent of a specified pronoun in a sentence.   
+The model aims to identify the correct antecedent of a specified pronoun in a sentence/schema.   
 
 The **city councilmen** refused the **demonstrators** a permit because *they* feared violence.  
 
