@@ -9,7 +9,7 @@ Here, the correct andecedent of the pronoun **they** would be "city councilmen"
 
 **WSC-285** contains 285 schemas  
 
-**WinoGender** contains 120 schemas. ( WinoGender is usually used for testing if a model is biased toward gender i.e if the model tends to associate certain professions with certain pronouns. But since our model does not consider pronoun in the feature vector formation, WinoGender is used in training here)  
+**WinoGender** contains 120 schemas. ( WinoGender is usually used for testing if a model is biased toward gender i.e if the model tends to associate certain professions with certain pronouns. But since our model does not consider pronoun in the feature vector formation, WinoGender is used in training here )  
 
 ## Approach  
 An SVM based approach was used to indentify the correct antecedent.   
@@ -25,7 +25,7 @@ An SVM based approach was used to indentify the correct antecedent.
 * The above 4 features is the feature vector for the sentence  
 
 ### Keyword identification  
-Nouns and verbs hold great meaning in a sentence. A noun and verb is identified as the 2 keywords and if a noun or verb is not present, and adjective is chosen as a keyword.  
+Nouns and verbs hold great meaning in a sentence. A noun and verb is identified as the 2 keywords and if a noun or verb is not present, an adjective is chosen as a keyword.  
   
 ## In this repo  
 
